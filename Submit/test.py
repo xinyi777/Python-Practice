@@ -1,28 +1,28 @@
-def func1(k, i) -> int:
+def func1(k, i):
     pass
 
 
-def func2(n) -> str:
+def func2(n):
     pass
 
 
-def func3(lst, v) -> list:
+def func3(lst, v):
     pass
 
 
-def func4(k) -> int:
+def func4(k):
     pass
 
 
-def func5(lst) -> list:
+def func5(lst):
     pass
 
 
-def func6(s) -> list:
+def func6(s):
     pass
 
 
-def func7(s) -> list:
+def func7(s):
     pass
 
 
