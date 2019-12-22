@@ -71,3 +71,4 @@ if __name__=='__main__':
     # print(func6('(-3,4)(4,-3)(-4,-3)(3,4)'))
     # print(func7('hello hello hi apple'))
     pass
+    #ps
